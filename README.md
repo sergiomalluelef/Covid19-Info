@@ -1,6 +1,10 @@
-# game
+# Covid Info
 
-A new Flutter application.
+Aplicación creada en flutter para mostrar números de casos a nivel mundial y por pais.
+
+  -Lista de eventos, porcentajes.
+  -Orientación a datos chilenos.
+  -Mapa mundial de avance y casos.
 
 ## Getting Started
 
